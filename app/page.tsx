@@ -79,7 +79,7 @@ export default function Home() {
               <ul className="space-y-2 text-gray-600 dark:text-gray-300">
                 <li className="flex items-start">
                   <span className="text-green-600 mr-2">✓</span>
-                  Today's games and scores
+                  Today&apos;s games and scores
                 </li>
                 <li className="flex items-start">
                   <span className="text-green-600 mr-2">✓</span>
@@ -135,7 +135,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-gray-600 dark:text-gray-400">
           <p>MLB Chat - Your AI-powered baseball companion</p>
           <p className="mt-2 text-sm">
-            Stay connected to America's pastime, anytime, anywhere
+            Stay connected to America&apos;s pastime, anytime, anywhere
           </p>
         </div>
       </footer>
